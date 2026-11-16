@@ -5,10 +5,8 @@ O sistema permite cadastrar chamados, acompanhar situações, pesquisar registro
 
 ## Links
 
-- Frontend publicado: informe aqui a URL pública gerada pelo Cloudflare Pages.
+- Frontend publicado: <https://rapid-river-121a.guilherme-o-batista8.workers.dev/>.
 - API pública: <https://glorious-spoon-q77vpx9qv74ph65qw-3333.app.github.dev/api>
-- Painel de publicação: <https://dash.cloudflare.com/8c1b884f69c84f0803b49b23aa881be4/workers/services/view/rapid-river-121a/production>
-- Repositório: informe aqui a URL do repositório no GitHub.
 
 > O endereço do painel da Cloudflare é usado para administração. Para avaliação, prefira informar a URL pública do frontend, terminada em `pages.dev`, no primeiro link.
 
